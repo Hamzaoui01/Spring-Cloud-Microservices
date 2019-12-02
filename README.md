@@ -15,3 +15,7 @@ and provide this information to the proxy.
 ### Proxy Service
 It's the pricipal MicroSercvice and it take the http requestes and divide them to the MicroServices listed in Registration service.
 
+## Architecture
+![Arcchitecture](https://github.com/Hamzaoui01/Spring-Cloud-Microservices/blob/master/img/architecture.png?raw=true)
+
+
