@@ -18,4 +18,6 @@ It's the pricipal MicroSercvice and it take the http requestes and divide them t
 ## Architecture
 ![Arcchitecture](https://github.com/Hamzaoui01/Spring-Cloud-Microservices/blob/master/img/architecture.png?raw=true)
 
-
+## Report
+I've create a report in frensh contains all instructions to build this project:
+[Open the report](https://drive.google.com/file/d/1IGfviC3yNwp6WuReJDb4aLqDRz0QXsVe/view?usp=sharing).
